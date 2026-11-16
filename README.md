@@ -6,8 +6,7 @@
 
 - **Languages:** Java, Python, SQL
 - **Backend & Frameworks:** Spring Boot, Spring Web MVC, Spring Data JPA, Hibernate, RESTful APIs
-- **AI & Data:** LangChain, LangGraph, RAG, FAISS, Ollama, FastAPI, Streamlit
-- **Databases:** PostgreSQL, MySQL, SQLite
+- **Databases:** PostgreSQL, MySQL
 - **Developer Tools:** Git, GitHub, Maven, Postman, IntelliJ IDEA, DBeaver, VS Code
 
 ## 📌 Featured Projects
